@@ -18,7 +18,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3' # 使用稳定的 3.3 版本
+          ruby-version: '3.3'
           bundler-cache: true
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -30,7 +30,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps: deployment.outputs.page_url }} 
+      url: ${{ steps.deployment.outputs.page_url }} # ← 这里修正了：把冒号改成了点号
     runs-on: ubuntu-latest
     needs: build
     steps:
