@@ -7,6 +7,11 @@ source "https://rubygems.org"
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
+  gem "webrick"
+  gem "csv"
+  gem "bigdecimal"
+  gem "base64"
+  gem "mutex_m"
 end
 
 # Performance-booster for watching directories on Windows
