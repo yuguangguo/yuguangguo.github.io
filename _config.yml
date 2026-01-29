@@ -56,10 +56,9 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: william.kuo.225201
   github: yuguangguo
-  wechat: guoyuguang520
   twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+  patreon: williamkuo
+  youtube: "@lumahref"
   whatsapp: +86 16635611589
   medium: williamkuo1988
 #  reddit: yourname or r/yoursubreddit
@@ -100,6 +99,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  whatsapp: true
   vk: false
   reddit: false
 
@@ -131,7 +131,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "yuguangguo"
+keywords: "yuguangguo" #原先有#符号
 
 ######################################
 # --- Colours / background image --- #
@@ -213,7 +213,7 @@ footer-hover-col: "#0085A1"
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 #utterances:
-#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  repository: # GitHub username/repository eg. ""
 #  issue-term: title   # Mapping between blog posts and GitHub issues
 #  theme: github-light # Utterances theme
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
