@@ -8,6 +8,7 @@ My name is Yuguang Guo, a CN-EN translator and interpreter. I have translation a
 
 ## Translation Experience
 - 2 years in a coal-fired thermal power plant of [Botswana Power Corporation](https://www.bpc.bw/), seasoned in translating things related to mechanical, electrical, welding, NDT/NDE, chemical, civil construction, instrumentation and control, commissioning, and various tests (such as RB test, BTG), etc. 
+![yuguangguo in CCR](assets/img/yuguangguo in CCR.jpg "yuguangguo in CCR of BPC")
 - 5 years working in substations of [EDTL](https://edtl-ep.tl/home/en/), seasoned in translating things related to protective relay, safety operation, and local employee training. 
 - I can also speak English, Tetun, and a little Portuguese.
 
