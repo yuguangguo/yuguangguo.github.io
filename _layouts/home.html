@@ -47,10 +47,10 @@ layout: page
       </a>
 
       {% if post.author %}
-        <span>By <strong>{{ post.author | strip_html }}</strong></span>
+        <span>作者：<strong>{{ post.author | strip_html }}</strong></span>
       {% endif %}
       <p class="post-meta">
-        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        {% assign date_format = site.date_format | default: "%Y年%m月%d日" %}
         发布于 {{ post.date | date: date_format }}
       </p>
 
