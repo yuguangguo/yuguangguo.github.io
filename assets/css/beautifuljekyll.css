@@ -662,7 +662,7 @@ footer .footer-custom-content {
 
 #full-tags-list .tag-entry .entry-date {
   color: var(--mid-col);
-  font-style: italic;
+  font-style: normal;
   font-size: 1rem;
 }
 
