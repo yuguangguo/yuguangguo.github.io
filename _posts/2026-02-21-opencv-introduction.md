@@ -5,8 +5,8 @@ subtitle: openCV-python的安装
 cover-img: #
 thumbnail-img: /assets/img/opencv安装.png
 share-img: #
-tags: [openCV安装]
-author: yuguang guo
+标签: [openCV安装]
+作者: yuguang guo
 ---
 
 ## openCV安装
