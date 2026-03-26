@@ -51,3 +51,8 @@ else:
         print("the image unsaved!")
 cv.destroyAllWindows() #这行代码容易忘记，功能是关闭窗口疼出内存。
 ~~~
+
+<details markdown="1">
+<summary>下一章</summary>
+[OpenCV模型](https://yuguangguo.com/opencv-modules/){:target='_blank'}
+</details>
