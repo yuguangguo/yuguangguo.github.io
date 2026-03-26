@@ -91,6 +91,9 @@ cv.destroyAllWindows()
 
 #### **复制ROI**
 复制ROI也比较简单，下面是对某个区域的复制。
+
+请看以下代码。
+
 ~~~python
 roi = img[100:300, 300:500]
 dup_roi = img[100:300, 300:500].copy()
