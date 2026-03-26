@@ -12,7 +12,7 @@ author: yuguangguo
 
 {: .box-success}
 
-OpenCV这个计算机视觉库里其实包含多个模块，每个模块的功能还不一样。在[OpenCV安装](https://yuguangguo.com/opencv-introduction/)之后，我们应该了解常见的模块。
+OpenCV这个计算机视觉库里其实包含多个模块，每个模块的功能还不一样。在[OpenCV安装](https://yuguangguo.com/opencv-introduction/){:target="_blank"}之后，我们应该了解常见的模块。
 常见的OpenCV模块如下：
 ### cv2.core模块
 该模块是图像处理的基础功能。
