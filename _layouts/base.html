@@ -47,5 +47,15 @@ common-js:
     }
   </script>
 
+
+  <script>
+  // 获取页面上所有的 a 标签
+  var links = document.links;
+  for (var i = 0; i < links.length; i++) {
+    // 如果你想让所有链接都在新窗口打开：
+    links[i].target = '_blank';
+  }
+</script>
+
 </body>
 </html>
