@@ -49,7 +49,7 @@ else:
         cv.imwrite(str(final_output), img)  #这行代码也容易忘记
     else:
         print("the image unsaved!")
-cv.destroyAllWindows() #这行代码容易忘记，功能是关闭窗口疼出内存。
+cv.destroyAllWindows() #这行代码容易忘记，功能是关闭窗口腾出更多内存。
 ~~~
 
 <details markdown="1">
