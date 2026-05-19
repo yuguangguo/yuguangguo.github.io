@@ -11,8 +11,8 @@ tags: [openCV安装]
 
 ## openCV安装
 
-个人一直在用VSCode来编写代码，而且有Python基础，所以比较习惯用pip来安装openCV。
-有几种方法可以使用。我个人使用的第二个。
+我个人是一直在用VSCode来编写代码，而且有Python基础，所以比较习惯用pip来安装openCV。
+这里有几种方法可以使用。我个人使用的第二个。
 - pip install opencv-python
 - pip install opencv-contrib-python (opencv加其他模块)
 
